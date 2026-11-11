@@ -1,0 +1,34 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor / Google Drive sync
+.DS_Store
+Icon?
+.tmp.drive*
+.vscode/
+.idea/
+
+# Kaggle data (re-downloadable via kagglehub / kaggle CLI)
+*.csv
+*.csv.gz
+*.zip
+*.parquet
+.complete/
+
+# Large media
+*.mov
+*.mp4
+
+# Thumbnails
+competition/Thumbnails/
